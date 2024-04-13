@@ -118,7 +118,9 @@ nav ul{
     }
 
     .gameinfo{
-        margin-top: -550px;
+        /* margin-top: -550px; */
+        position: relative;
+        bottom: 389px;
     }
 
     .gameinfo h1{
