@@ -117,10 +117,10 @@ nav ul{
         grid-template-columns: repeat(3,18vw);
     }
 
-    /* .gameinfo{
+    .gameinfo{
         position: relative;
         bottom: 200px;
-    }*/
+    }
 
     .gameinfo h1{
         font-size: 1.5rem;
